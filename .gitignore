@@ -1,0 +1,11 @@
+# Build
+/target
+
+# SQL Tools
+*.session.sql
+
+# Environment variables
+.env
+
+# Cargo.lock
+*.lock
