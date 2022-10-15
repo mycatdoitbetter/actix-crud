@@ -1,7 +1,8 @@
 use diesel::prelude::*;
 use serde::{Deserialize, Serialize};
-use crate::schema::posts;
+use crate::modules::posts::schema::posts;
 
+#[derive(Debug, PartialEq)]
 #[derive(Queryable, Serialize, Deserialize)]
 pub struct Post {
     pub id: i32,
