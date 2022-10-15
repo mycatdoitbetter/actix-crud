@@ -28,17 +28,17 @@
 
 This project is from my personal learning process on Rust. I'm trying to learn more about the languages structure and in this project im using Rust, Actix (Framework), Diesel (ORM) and Postgres (Database).
 
-<br/>
+
 <hr/>
-<br/>
-<br/>
+
+
 
 <!-- GETTING STARTED -->
 ### Getting Started
 
 To run this project you need to have Rust installed on your machine. You can follow the steps on the official documentation: https://www.rust-lang.org/tools/install
 
-<br />
+
 
 ### Prerequisites
 
@@ -46,7 +46,6 @@ To run this project you need to have Rust installed on your machine. You can fol
 * Postgres
 * Diesel CLI
 
-<br />
 
 ### Installation
 
